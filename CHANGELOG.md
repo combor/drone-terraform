@@ -1,3 +1,9 @@
+## 5.1-0.11.8 (2018-10-11)
+* Update embedded TF to `0.11.8`
+
+## 5.1-0.11.7 (2018-07-31)
+* Add `vars` and `var_files` to destroy operation
+
 ## 5.0-0.11.7 (2018-04-25)
 **BREAKING CHANGE**
 * Removed `destroy` param
